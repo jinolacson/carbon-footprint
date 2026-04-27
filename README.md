@@ -147,9 +147,6 @@ python carbon_footprint.py 1
 python carbon_footprint.py 2
 ```
 
-It provides context:
-> "The room is set up for a birthday party with decorations and a cake on the table, ready for celebration."
-
 **With Memory Layer:**
 
 ## Installation
