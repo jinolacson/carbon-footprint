@@ -2,6 +2,10 @@
 
 An AI-powered environmental impact analyzer that instantly displays the carbon footprint, decomposition time, and recyclability of items held up to your camera.
 
+## Demo
+
+![Demo Video](demo.mp4)
+
 ## Features
 
 - ** Instant Carbon Footprint**: See CO2 emissions for any detected item
