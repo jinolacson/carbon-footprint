@@ -4,7 +4,9 @@ An AI-powered environmental impact analyzer that instantly displays the carbon f
 
 ## Demo
 
-![Demo Video](demo.mp4)
+> **Note:** To view the demo video, please download [demo.mp4](demo.mp4) or watch it after cloning the repository.
+>
+> **GitHub users:** For the best viewing experience, edit this README on GitHub and drag/drop the video file to embed it using GitHub's video player.
 
 ## Features
 
